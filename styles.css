@@ -17,9 +17,14 @@ body{
             padding: 10px;
             display: inline-block;
         }
-        .social-icons{
+	.media-icons ul{
             display: flex;
+            flex-direction: row;
+            padding: 10px;
             justify-content: end;
+        }
+        .social-icons{
+        
             list-style: none;
             margin-top: 1px;
             padding: 0;  
