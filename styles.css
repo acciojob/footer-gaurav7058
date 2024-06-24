@@ -10,12 +10,11 @@ body{
             padding: 12px;
         }
         .logo_name{
-            font-size: 30px;
+            font-size: 35px;
             color: white;
             padding: 41px;
             position: absolute;
             padding: 10px;
-            display: inline-block;
         }
 	.media-icons ul{
             display: flex;
