@@ -14,11 +14,15 @@ body{
             position: absolute;
             padding: 17px;
         }
+.media-icons{
+	display: flex;
+	flex-direction: row;
+	justify-content: end;
+}
         .media-icons ul{
             display: flex;
-            flex-direction: row;
             padding: 10px;
-            justify-content: end;
+            
             margin-top: 0px;
             margin-right: 32px;
         }
